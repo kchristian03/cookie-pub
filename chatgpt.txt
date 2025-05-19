@@ -1,12 +1,3 @@
-name
-value
-domain
-path
-expires
-size
-secure
-httpOnly
-sameSite
 
 __cf_bm	3ac9lvY.jJpkuENyi6Q9.TY7YmO57PMWsuFWAPnVd18-1747662512-1.0.1.1-99OlDS9rsr3slsh.yLOpotXNsmJBA4VnfieqA4.9U0Rt3BF3AGomTh54cRSPzeCUL1SuGQ5hf3qqzpp8yF1mSdvN0DN.S3_MxnjpvBDsb7Q	.chatgpt.com	/	19/05/2025, 21:18:32	177 B	✓	✓	
 
